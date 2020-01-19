@@ -1,2 +1,2 @@
-main do
+main = do
   print "hello haskell"
